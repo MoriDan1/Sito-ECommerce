@@ -33,7 +33,7 @@
       <div class="cover__content">
         <h1> Healty</h1>
         <h2>Per una vita salutare </h2>
-      <a href="index2.php" class="button">Inizia ad Acquistare</a>
+      <a href="./public/index.php" class="button">Inizia ad Acquistare</a>
       </div>
     </div>
 
