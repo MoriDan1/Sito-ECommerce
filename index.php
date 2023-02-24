@@ -14,10 +14,10 @@
           <strong>Cosa vuoi fare oggi?</strong>
         </a>
         <ul class="header__menu">
-          <li><a href="#">Servizi</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="https://www.doveconviene.it/">Prodotti in Offerta</a></li>
-          <li><a href="E:\Programmazione\HTML\Sito web GPOI V0.5\login.html">Account</a></li>
+          <li><a href="#">Opzione 1 </a></li>
+          <li><a href="#">Opzione 2 </a></li>
+          <li><a href="https://www.doveconviene.it/">Opzione 3</a></li>
+          <li><a href="E:\Programmazione\HTML\Sito web GPOI V0.5\login.html">Consigliami</a></li>
         </ul>
         <div class="header__quick">
           <a href="">Contacts</a>

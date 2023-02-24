@@ -26,7 +26,7 @@
             <a class="nav-link active" aria-current="page" href="<?php echo ROOT_URL ?>public/?page=homepage">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Prodotti</a>
+            <a class="nav-link" href="<?php echo ROOT_URL; ?>shop?page=products-list">Prodotti</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="<?php echo ROOT_URL ?>public/?page=contatti">Contatti</a>
