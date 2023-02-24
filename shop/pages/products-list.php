@@ -1,5 +1,6 @@
+<h2>Ecco i nostri Prodotti</h2>
+
 <?php
-echo 'Hello from' . basename(__FILE__);
 
 $productMgr = new ProductManager();
 $products = $productMgr->getAll();
